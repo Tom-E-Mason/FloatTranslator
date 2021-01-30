@@ -68,7 +68,7 @@ def bin_to_float(bin_num, endianness):
         hex_num = "0x" + hex_num
         hex_num = reverse_hex_bytes(hex_num)
         hex_num = hex_num.replace("0x", "")
-        #0b1111001101011101  
+
     return hex_to_float(hex_num, endianness)
 
 def float_to_bin(flt_num, endianness):
