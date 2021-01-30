@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c90bee09-a891-4418-bb5c-6431a4040b4a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>FloatTranslatorProject.py</StartupFile>
+    <StartupFile>FloatTranslator.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -24,7 +24,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="FloatTranslatorProject.py" />
+    <Compile Include="FloatTranslator.py" />
     <Compile Include="translate.py">
       <SubType>Code</SubType>
     </Compile>
