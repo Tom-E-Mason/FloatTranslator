@@ -12,7 +12,7 @@
     <Name>FloatTranslatorProject</Name>
     <RootNamespace>FloatTranslatorProject</RootNamespace>
     <LaunchProvider>Standard Python launcher</LaunchProvider>
-    <CommandLineArguments>-0.5 bin little</CommandLineArguments>
+    <CommandLineArguments>11110010001111000011110010100101 flt little</CommandLineArguments>
     <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
